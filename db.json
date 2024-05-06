@@ -1,0 +1,235 @@
+[
+    {
+      "id": 101,
+      "name": "Vegetarian Burger",
+      "calories": 94,
+      "food_type": "vegetarian",
+      "recipe": "1. Mash chickpeas and mix with cooked quinoa. \n2. Add chopped onions, garlic, and spices. \n3. Form patties and grill until browned. \n4. Serve on whole wheat bun with lettuce and tomato.",
+      "food_pic": "https://media.istockphoto.com/id/1426331727/photo/vegan-hamburger-on-a-plate.webp?b=1&s=170667a&w=0&k=20&c=4_Aou_9cWp5gtOfJqzyzeURbKolDjL1DcydGG3l8XRs="
+    },
+    {
+      "id": 102,
+      "name": "Beef Steak",
+      "calories": 86,
+      "food_type": "beef",
+      "recipe": "1. Season steak with salt, pepper, and your favorite spices. \n2. Sear in a hot skillet for 2-3 minutes on each side. \n3. Finish cooking in the oven until desired doneness. \n4. Let rest before slicing and serving.",
+      "food_pic": "https://images.unsplash.com/photo-1588168333986-5078d3ae3976?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmVlZiUyMHN0ZWFrfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 103,
+      "name": "Lamb Curry",
+      "calories": 88,
+      "food_type": "lamb",
+      "recipe": "1. Sauté onions, garlic, and ginger in oil until golden. \n2. Add lamb pieces and brown on all sides. \n3. Stir in curry powder, tomatoes, and coconut milk. \n4. Simmer until lamb is tender. \n5. Serve with rice and naan bread.",
+      "food_pic": "https://media.istockphoto.com/id/1087069910/photo/famous-indian-mutton-curry-roast.webp?b=1&s=170667a&w=0&k=20&c=cVCgbhHe6wQ1GK5QASupggzu8Oe3AvJ0YU62yIdyrM8="
+    },
+    {
+      "id": 104,
+      "name": "Pork Ribs",
+      "calories": 74,
+      "food_type": "pork",
+      "recipe": "1. Rub ribs with your favorite spice rub. \n2. Slow cook in the oven or on the grill until tender. \n3. Baste with barbecue sauce during the last few minutes of cooking. \n4. Serve with coleslaw and cornbread.",
+      "food_pic": "https://media.istockphoto.com/id/155431877/photo/barbecue-ribs.webp?b=1&s=170667a&w=0&k=20&c=ex3-Rh9pNBTSeZYkhhrpT_yOSWJWnAEAgVYb7_CLR0Y="
+    },
+    {
+      "id": 105,
+      "name": "Chicken Curry",
+      "calories": 62,
+      "food_type": "chicken",
+      "recipe": "1. Sauté onions, garlic, and ginger in oil until softened. \n2. Add chicken pieces and brown on all sides. \n3. Stir in curry paste, coconut milk, and vegetables. \n4. Simmer until chicken is cooked through. \n5. Serve with rice or naan bread.",
+      "food_pic": "https://media.istockphoto.com/id/1365687364/photo/homemade-red-chicken-curry.webp?b=1&s=170667a&w=0&k=20&c=pmYEjUzZK_k92I9i_JB2W3mWN5vDBRYoWptjGT0oKoU="
+    },
+    {
+      "id": 106,
+      "name": "Vegetarian Pizza",
+      "calories": 81,
+      "food_type": "vegetarian",
+      "recipe": "1. Spread pizza dough with tomato sauce. \n2. Top with sliced vegetables, olives, and cheese. \n3. Bake in a preheated oven until crust is golden and cheese is melted. \n4. Slice and serve hot.",
+      "food_pic": "https://media.istockphoto.com/id/1201587377/photo/homemade-vegan-artichoke-and-olive-pizza.webp?b=1&s=170667a&w=0&k=20&c=nwCfBDlvJpvOlbitWPmn8H2NaJzuP9BDTL5t_uXQ4_k="
+    },
+    {
+      "id": 107,
+      "name": "Chicken Salad",
+      "calories": 97,
+      "food_type": "chicken",
+      "recipe": "1. Grill or roast chicken breasts until cooked through. \n2. Slice and toss with mixed greens, cherry tomatoes, and cucumber. \n3. Drizzle with your favorite dressing and sprinkle with nuts or seeds. \n4. Serve immediately.",
+      "food_pic": "https://media.istockphoto.com/id/1491355712/photo/healthy-chicken-salad-bowl.webp?b=1&s=170667a&w=0&k=20&c=9cT_6Ng4Zlmk40V41UZt1PcU7WNDAduQth85N7F6vGI="
+    },
+    {
+      "id": 108,
+      "name": "Beef Burger",
+      "calories": 65,
+      "food_type": "beef",
+      "recipe": "1. Form ground beef into patties and season with salt and pepper. \n2. Grill or fry until cooked to your liking. \n3. Toast burger buns and assemble with lettuce, tomato, and your favorite toppings. \n4. Serve hot with fries or salad.",
+      "food_pic": "https://media.istockphoto.com/id/1771257128/photo/beef-burger-with-french-fries.webp?b=1&s=170667a&w=0&k=20&c=si2rMnRnMOAZropdlAeNnipCnj6F-EXuho1BCX_mzGY="
+    },
+    {
+      "id": 109,
+      "name": "Pork Stir-fry",
+      "calories": 75,
+      "food_type": "pork",
+      "recipe": "1. Slice pork into thin strips and marinate in soy sauce and garlic. \n2. Stir-fry pork with vegetables in a hot wok until cooked through. \n3. Add sauce mixture and cook until thickened. \n4. Serve over steamed rice.",
+      "food_pic": "https://media.istockphoto.com/id/1292147849/photo/sweet-and-sour-pork.webp?b=1&s=170667a&w=0&k=20&c=Da2_dZhJpq__aIK7AcxJLNBI82-6CgOEP-UR4sVG-gA="
+    },
+    {
+        "id": 110,
+        "name": "Tofu Stir-fry",
+        "calories": 70,
+        "food_type": "vegetarian",
+        "recipe": "1. Press tofu to remove excess water and cut into cubes. \n2. Stir-fry tofu with vegetables in a hot wok. \n3. Add sauce mixture and cook until heated through. \n4. Serve over rice or noodles.",
+        "food_pic": "https://media.istockphoto.com/id/523445425/photo/homemade-tofu-stir-fry.webp?b=1&s=170667a&w=0&k=20&c=PH-EB3K4alQvv7dYBYtcFgOCBOvvQUp0lkiwbik3hqI="
+      },
+      {
+        "id": 111,
+        "name": "Salmon Fillet",
+        "calories": 120,
+        "food_type": "seafood",
+        "recipe": "1. Season salmon fillet with salt, pepper, and lemon juice. \n2. Grill or bake until cooked through. \n3. Serve with steamed vegetables or salad.",
+        "food_pic": "https://media.istockphoto.com/id/1468279469/photo/fresh-raw-salmon-and-ingredients-for-marinade-on-light-grey-table-closeup.webp?b=1&s=170667a&w=0&k=20&c=QYwsnCsRMjD9NWAzfsnj0EcY89MuarShMXyNcnYDRPU="
+      },
+      {
+        "id": 112,
+        "name": "Spaghetti Bolognese",
+        "calories": 90,
+        "food_type": "beef",
+        "recipe": "1. Cook spaghetti according to package instructions. \n2. Brown ground beef with onions and garlic. \n3. Stir in tomato sauce and simmer until flavors meld. \n4. Serve sauce over cooked spaghetti and sprinkle with grated cheese.",
+        "food_pic": "https://media.istockphoto.com/id/1166681454/photo/spaghetti-with-bolognese-sauce-and-parmesan-cheese.webp?b=1&s=170667a&w=0&k=20&c=LVl4FsQFzt1GQfiXdBECamV3bv604j0400LVzS5ahFM="
+      },
+      {
+        "id": 113,
+        "name": "Eggplant Parmesan",
+        "calories": 85,
+        "food_type": "vegetarian",
+        "recipe": "1. Slice eggplant and dip in beaten eggs, then breadcrumbs. \n2. Fry eggplant slices until golden brown. \n3. Layer fried eggplant with marinara sauce and mozzarella cheese. \n4. Bake until cheese is bubbly and golden.",
+        "food_pic": "https://media.istockphoto.com/id/1168662503/photo/tradicional-parmigiana-di-melanzane-baked-eggplant-italy-sicily-cousine-baked-eggplant-with.webp?b=1&s=170667a&w=0&k=20&c=cCGciFy8J8YUPFTU4UC9VhvUl9a2X4VDspGydc2LMBo="
+      },
+      {
+        "id": 114,
+        "name": "Beef Tacos",
+        "calories": 100,
+        "food_type": "beef",
+        "recipe": "1. Season ground beef with taco seasoning and cook until browned. \n2. Warm corn tortillas in a dry skillet or microwave. \n3. Fill tortillas with cooked beef and your favorite toppings. \n4. Serve with salsa and guacamole.",
+        "food_pic": "https://media.istockphoto.com/id/179708004/photo/beef-barbacoa-tacos.webp?b=1&s=170667a&w=0&k=20&c=A2-Kq1Y3x89L-BNrF0cbgd_s9Ri_rGtCVdc7NHDGPYY="
+      },
+      {
+        "id": 115,
+        "name": "Caprese Salad",
+        "calories": 60,
+        "food_type": "vegetarian",
+        "recipe": "1. Slice ripe tomatoes and fresh mozzarella cheese. \n2. Arrange tomato and mozzarella slices on a plate. \n3. Drizzle with balsamic glaze and sprinkle with fresh basil leaves. \n4. Season with salt and pepper to taste.",
+        "food_pic": "https://media.istockphoto.com/id/1412464690/photo/caprese-salad-with-mozzarella-tomatoes-and-basil.webp?b=1&s=170667a&w=0&k=20&c=R-frT_JSf7ei0mGz6Zl1kbHshLA0ZpJN7lXs6tjJ4Kc="
+      },
+      {
+        "id": 116,
+        "name": "Beef Stroganoff",
+        "calories": 95,
+        "food_type": "beef",
+        "recipe": "1. Sauté sliced mushrooms and onions in butter until golden. \n2. Add thinly sliced beef and cook until browned. \n3. Stir in sour cream and beef broth. \n4. Simmer until sauce thickens. \n5. Serve over cooked egg noodles.",
+        "food_pic": "https://media.istockphoto.com/id/1241724902/photo/preparing-vegan-mushroom-stroganoff.webp?b=1&s=170667a&w=0&k=20&c=-xJaByzl2GAPfj50BC5SkUZmglDIL5GgvaqjcGiqRpw="
+      },
+      {
+        "id": 117,
+        "name": "Mushroom Risotto",
+        "calories": 80,
+        "food_type": "vegetarian",
+        "recipe": "1. Sauté chopped onions and garlic in olive oil until softened. \n2. Add Arborio rice and cook until translucent. \n3. Stir in sliced mushrooms and vegetable broth. \n4. Simmer until rice is creamy and tender. \n5. Finish with grated Parmesan cheese.",
+        "food_pic": "https://media.istockphoto.com/id/182171305/photo/mushroom-risotto.webp?b=1&s=170667a&w=0&k=20&c=J3BURc1hK8EbsS2Tux-x-naSUhof0fcp5mRQjo8GWFA="
+      },
+      {
+        "id": 118,
+        "name": "Grilled Vegetable Skewers",
+        "calories": 75,
+        "food_type": "vegetarian",
+        "recipe": "1. Cut assorted vegetables (bell peppers, zucchini, mushrooms, onions) into chunks. \n2. Thread onto skewers and brush with olive oil. \n3. Grill until vegetables are tender and lightly charred. \n4. Serve hot with a squeeze of lemon juice.",
+        "food_pic": "https://media.istockphoto.com/id/1313325257/photo/vegetable-kebab-with-bell-pepper-onion-tomato-and-cheese.webp?b=1&s=170667a&w=0&k=20&c=7ExZT3REu-VydmNQG-YNvw_q86HlZOoVLlTGYuT1wFM="
+      },
+      {
+        "id": 119,
+        "name": "Teriyaki Salmon",
+        "calories": 110,
+        "food_type": "seafood",
+        "recipe": "1. Marinate salmon fillets in teriyaki sauce for 30 minutes. \n2. Grill or broil salmon until cooked through. \n3. Brush with additional teriyaki sauce before serving. \n4. Garnish with sesame seeds and chopped green onions.",
+        "food_pic": "https://media.istockphoto.com/id/647871516/photo/teriyaki-salmon-on-black-background.webp?b=1&s=170667a&w=0&k=20&c=Q6ggzf1QFhcnqL3xxPc6fKqDnj7SwQdVCpymF7h3Nes="
+      },
+      {
+        "id": 120,
+        "name": "Chicken Alfredo",
+        "calories": 105,
+        "food_type": "chicken",
+        "recipe": "1. Cook fettuccine according to package instructions. \n2. Sauté chicken breast strips in butter until cooked through. \n3. Stir in heavy cream and grated Parmesan cheese. \n4. Toss cooked pasta with the creamy sauce. \n5. Garnish with parsley and additional Parmesan cheese if desired.",
+        "food_pic": "https://media.istockphoto.com/id/1451111530/photo/creamy-alfredo-pasta-with-chicken-mushrooms-and-parmesan-cheese-healthy-italian-food.webp?b=1&s=170667a&w=0&k=20&c=cPrCr7e0QB-1WOxjZt7aSLWiZyPvhmEP5t-eRm4qkFU="
+      },
+      {
+        "id": 121,
+        "name": "Shrimp Scampi",
+        "calories": 95,
+        "food_type": "seafood",
+        "recipe": "1. Cook linguine according to package instructions. \n2. Sauté shrimp in olive oil and garlic until pink. \n3. Deglaze the pan with white wine and lemon juice. \n4. Toss cooked pasta with shrimp, sauce, and chopped parsley. \n5. Serve hot with lemon wedges.",
+        "food_pic": "https://media.istockphoto.com/id/1420207604/photo/pan-fried-butter-garlic-shrimp-on-plate.webp?b=1&s=170667a&w=0&k=20&c=bg5X7JrFifskjCXZ1XLufdzKXcX-2oiNhpvHRHDLNHY="
+      },
+      {
+        "id": 122,
+        "name": "Veggie Stir-fry",
+        "calories": 80,
+        "food_type": "vegetarian",
+        "recipe": "1. Heat oil in a wok and stir-fry chopped vegetables (bell peppers, broccoli, carrots, snap peas) until tender-crisp. \n2. Add minced garlic and ginger, and cook for another minute. \n3. Season with soy sauce and sesame oil. \n4. Serve hot over steamed rice or noodles.",
+        "food_pic": "https://media.istockphoto.com/id/588595864/photo/steaming-mixed-vegetables-in-the-wok-asian-style-cooking.webp?b=1&s=170667a&w=0&k=20&c=BWA5VqmGAhCvhnwrmlwOgeNlyQYA_OMTdPrln1psL08="
+      },
+      {
+        "id": 123,
+        "name": "Pasta Primavera",
+        "calories": 90,
+        "food_type": "vegetarian",
+        "recipe": "1. Cook penne pasta according to package instructions. \n2. Sauté assorted vegetables (zucchini, cherry tomatoes, asparagus, bell peppers) in olive oil until tender. \n3. Toss cooked pasta with vegetables and a splash of pasta water. \n4. Season with salt, pepper, and grated Parmesan cheese.",
+        "food_pic": "https://media.istockphoto.com/id/527905918/photo/pasta-primavera-on-a-vintage-plates.webp?b=1&s=170667a&w=0&k=20&c=Cw4Vw8oxZlJmvXsZH7mHq3HnABTu0Mkvn4tbitptS10="
+      },
+      {
+        "id": 124,
+        "name": "Beef Lasagna",
+        "calories": 110,
+        "food_type": "beef",
+        "recipe": "1. Cook lasagna noodles according to package instructions. \n2. Brown ground beef with onions and garlic. \n3. Layer lasagna noodles, beef sauce, and ricotta cheese in a baking dish. \n4. Top with shredded mozzarella cheese. \n5. Bake until bubbly and golden brown.",
+        "food_pic": "https://media.istockphoto.com/id/1477739651/photo/portion-of-lasagna-in-baking-dish-top-view.webp?b=1&s=170667a&w=0&k=20&c=DTpurQvlQ9V6FH_-SwYKHIzIdYj1QohYGI5FkDeKNR8="
+      },
+      {
+        "id": 125,
+        "name": "Tofu Curry",
+        "calories": 85,
+        "food_type": "vegetarian",
+        "recipe": "1. Sauté onions, garlic, and ginger in oil until softened. \n2. Add cubed tofu and cook until lightly browned. \n3. Stir in curry paste, coconut milk, and vegetables. \n4. Simmer until vegetables are tender. \n5. Serve with rice or naan bread.",
+        "food_pic": "https://media.istockphoto.com/id/1181820712/photo/stir-fried-tofu-and-vegetables-with-peanut-sauce.webp?b=1&s=170667a&w=0&k=20&c=qGYWkaMANLOThx2tWMBinLtgaDopqF_LLPPGzb3rBQs="
+      },
+      {
+        "id": 126,
+        "name": "Lemon Garlic Salmon",
+        "calories": 115,
+        "food_type": "seafood",
+        "recipe": "1. Marinate salmon fillets in a mixture of lemon juice, minced garlic, and olive oil for 30 minutes. \n2. Grill or bake salmon until cooked through. \n3. Garnish with lemon slices and chopped parsley. \n4. Serve hot with roasted vegetables or salad.",
+        "food_pic": "https://media.istockphoto.com/id/532571540/photo/raw-salmon-on-baking-paper.webp?b=1&s=170667a&w=0&k=20&c=OLZfDFYdam4iNY7Jh0MD98w90V9NWEB5ajhQWm0y-9k="
+      },
+      {
+        "id": 127,
+        "name": "Vegetable Curry",
+        "calories": 95,
+        "food_type": "vegetarian",
+        "recipe": "1. Sauté onions, garlic, and ginger in oil until softened. \n2. Add chopped vegetables (potatoes, carrots, cauliflower, peas) and cook until tender. \n3. Stir in curry powder, coconut milk, and tomato sauce. \n4. Simmer until flavors meld. \n5. Serve with rice or naan bread.",
+        "food_pic": "https://media.istockphoto.com/id/1215493528/photo/indian-food-chickpeas-masala.webp?b=1&s=170667a&w=0&k=20&c=sCXKHVV3vyw0-6Hn6nSSyRpb6RwRUZyl7z7bcNjB5tI="
+      },
+      {
+        "id": 128,
+        "name": "Chicken Enchiladas",
+        "calories": 100,
+        "food_type": "chicken",
+        "recipe": "1. Shred cooked chicken breast and mix with salsa and shredded cheese. \n2. Roll chicken mixture in corn tortillas and place in a baking dish. \n3. Top with enchilada sauce and more cheese. \n4. Bake until bubbly and golden brown. \n5. Serve hot with sour cream and chopped cilantro.",
+        "food_pic": "https://media.istockphoto.com/id/866265004/photo/baked-chicken-enchiladas.webp?b=1&s=170667a&w=0&k=20&c=zEZiFEPCphmKNFoGfMCpzttyeTRFgCMFSRKYca4jJ1I="
+      },
+      {
+        "id": 129,
+        "name": "Seafood Paella",
+        "calories": 105,
+        "food_type": "seafood",
+        "recipe": "1. Sauté onions, bell peppers, and garlic in olive oil until softened. \n2. Add Arborio rice and cook until translucent. \n3. Stir in chicken broth, saffron, and diced tomatoes. \n4. Add shrimp, mussels, and sliced chorizo. \n5. Simmer until rice is cooked and seafood is done. \n6. Garnish with lemon wedges and chopped parsley.",
+        "food_pic": "https://media.istockphoto.com/id/169987496/photo/chorizo-and-spanish-rice-skillet-dinner.webp?b=1&s=170667a&w=0&k=20&c=WuR7ktpxIMvr3XKipRPv9jS3S9I2TG3iHWhOTUKnvV4="
+      }
+  ]
+  
