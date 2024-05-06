@@ -1,5 +1,7 @@
-[
-    {
+{
+    
+    "food":
+    [{
       "id": 101,
       "name": "Vegetarian Burger",
       "calories": 94,
@@ -232,4 +234,4 @@
         "food_pic": "https://media.istockphoto.com/id/169987496/photo/chorizo-and-spanish-rice-skillet-dinner.webp?b=1&s=170667a&w=0&k=20&c=WuR7ktpxIMvr3XKipRPv9jS3S9I2TG3iHWhOTUKnvV4="
       }
   ]
-  
+}
